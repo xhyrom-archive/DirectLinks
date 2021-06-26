@@ -75,6 +75,14 @@
             "host": "Mirrorservice",
             "url": "https://www.mirrorservice.org/sites/mageia.org/pub/mageia/iso/8/Mageia-8-x86_64/Mageia-8-x86_64.iso",
             "contributor": "Trio"
+        },
+        {
+            "os": "RaspberryPiOS",
+            "version": "Full",
+            "fast": true,
+            "host": "RaspberrySite",
+            "url": "https://downloads.raspberrypi.org/raspios_full_armhf/images/raspios_full_armhf-2021-05-28/2021-05-07-raspios-buster-armhf-full.zip",
+            "contributor": "iZboxo"
         }
     ],
     "other": [
