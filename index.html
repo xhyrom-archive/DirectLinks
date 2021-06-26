@@ -26,9 +26,9 @@
 
     <body><div class="container mt-5">
     <nav class="navbar navbar-expand-sm flex-column flex-sm-row text-nowrap p-0">
-        <a class="navbar-brand mx-0 mr-sm-auto" href="https://example.com" title="Tools">
+        <a class="navbar-brand mx-0 mr-sm-auto" href="https://example.com" title="OS List">
           
-          Tools
+          OS List
         </a>
         <div class="navbar-nav flex-row flex-wrap justify-content-center">
             
@@ -44,58 +44,76 @@
 <table class="table">
     <thead>
         <tr>
-        <th scope="col">Uploaded</th>
-        <th scope="col">Url</th>
-        <th scope="col">Slow</th>
+            <th scope="col">Type</th>
+            <th scope="col">Url</th>
+            <th scope="col">Slow</th>
         </tr>
     </thead>
 
     <tbody>
         
             <tr>
-                <td id="uploaded" class="uploaded" value="1624684325"></td>
-                <td><a href="url">google</a></td>
+                <td>Win 11 | Build 21996</td>
+                <td><a href="https://anonfiles.com/j78fH116u1/21996.1.210529-1541.co_release_CLIENT_CONSUMER_x64FRE_en-us_iso">AnonFiles</a></td>
                 <td>false</td>
             </tr>
         
             <tr>
-                <td id="uploaded" class="uploaded" value="1624684325"></td>
-                <td><a href="url">google</a></td>
+                <td>Win 11 | Build 21996</td>
+                <td><a href="https://anonfiles.com/z3rfK519ud/21996.1.210529-1541.co_release_CLIENT_CONSUMER_x64FRE_en-us_iso">AnonFiles</a></td>
                 <td>false</td>
             </tr>
         
             <tr>
-                <td id="uploaded" class="uploaded" value="1624684325"></td>
+                <td>Win 11 | Build 21996</td>
+                <td><a href="https://ia801503.us.archive.org/25/items/win11build21996/21996.1.210529-1541.co_release_CLIENT_CONSUMER_x64FRE_en-us%20%281%29.iso">Archive.org</a></td>
+                <td>false</td>
+            </tr>
+        
+            <tr>
+                <td>Win 11 | Build 21996</td>
+                <td><a href="https://ia801400.us.archive.org/13/items/21996.1.210529-1541.co-release-client-consumer-x-64-fre-en-us_20210616/21996.1.210529-1541.co_release_CLIENT_CONSUMER_x64FRE_en-us.iso">Archive.org</a></td>
+                <td>false</td>
+            </tr>
+        
+            <tr>
+                <td>Win 11 | Build 21996</td>
+                <td><a href="https://moebox.pl/21996.1.210529-1541.co_release_CLIENT_CONSUMER_x64FRE_en-us.iso">Moebox</a></td>
+                <td>false</td>
+            </tr>
+        
+            <tr>
+                <td>Win 11 | Build 21996</td>
+                <td><a href="https://mega.nz/file/r2QCjJRQ#jUCxr0y6Y8gE0YkkgbAkv58sxksJW3EHOfmBmXbdxYs">Mega.nz</a></td>
+                <td>false</td>
+            </tr>
+        
+    </tbody>
+</table>
+<h2 id="linux">Linux</h2>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">OS</th>
+            <th scope="col">Url</th>
+            <th scope="col">Slow</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        
+            <tr>
+                <td>Ubuntu 20.1</td>
                 <td><a href="url">google</a></td>
                 <td>false</td>
             </tr>
         
     </tbody>
 </table>
-
-<script>
-    let tag = document.getElementsByClassName("uploaded")
-
-    for (let i = 0; i < tag.length; i++) {
-        var timestamp = tag[i].getAttribute("value")
-        tag[i].innerHTML = getUploaded(timestamp)
-    }
-
-    function getUploaded(timestamp) {
-        let fullFill = (a, limit) => ("0".repeat(69) + a.toString()).slice(limit ? -limit : -2);
-
-        let date = new Date(timestamp * 1000);
-
-        let day = fullFill(date.getDate());
-        let month = fullFill(date.getMonth());
-        let year = fullFill(date.getFullYear(), 4);
-
-        return `${day}/${month}/${year}`;
-    }
-</script>
-<h2 id="references">References</h2>
 <ul>
-<li>xxxxxxxx</li>
+<li>Thank you to all contributors.</li>
 </ul>
 
 </div>
@@ -107,7 +125,7 @@
     </div>
     
         <div class="container text-center">
-            <a href="https://github.com/xHyroM" title="By Hyro"><small>By Hyro</small></a>
+            <a href="https://github.com/xHyroM/tools" title="By Hyro, Contributors"><small>By Hyro, Contributors</small></a>
         </div>
     
 </div>
