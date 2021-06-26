@@ -49,28 +49,32 @@
             "version": "20.04",
             "fast": true,
             "host": "Ubuntu",
-            "url": "https://releases.ubuntu.com/20.04.2.0/ubuntu-20.04.2.0-desktop-amd64.iso"
+            "url": "https://releases.ubuntu.com/20.04.2.0/ubuntu-20.04.2.0-desktop-amd64.iso",
+            "contributor": "Trio"
         },
         {
             "os": "CentOS",
             "version": "8.4",
             "fast": true,
             "host": "Rainside",
-            "url": "http://tux.rainside.sk/centos/8.4.2105/isos/x86_64/CentOS-8.4.2105-x86_64-boot.iso"
+            "url": "http://tux.rainside.sk/centos/8.4.2105/isos/x86_64/CentOS-8.4.2105-x86_64-boot.iso",
+            "contributor": "Trio"
         },
         {
             "os": "Manjaro",
             "version": "21.0.7",
             "fast": true,
             "host": "Manjaro",
-            "url": "https://download.manjaro.org/xfce/21.0.7/manjaro-xfce-21.0.7-210614-linux510.iso"
+            "url": "https://download.manjaro.org/xfce/21.0.7/manjaro-xfce-21.0.7-210614-linux510.iso",
+            "contributor": "Trio"
         },
         {
             "os": "Mageia",
             "version": "8",
             "fast": true,
             "host": "Mirrorservice",
-            "url": "https://www.mirrorservice.org/sites/mageia.org/pub/mageia/iso/8/Mageia-8-x86_64/Mageia-8-x86_64.iso"
+            "url": "https://www.mirrorservice.org/sites/mageia.org/pub/mageia/iso/8/Mageia-8-x86_64/Mageia-8-x86_64.iso",
+            "contributor": "Trio"
         }
     ],
     "other": [
