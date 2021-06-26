@@ -16,3 +16,6 @@ Windows/Linux
 **Version**
 Win 10 | Build 29960
 Linux Ubuntu 20.01
+
+**Fast**
+true/false
