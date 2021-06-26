@@ -1,20 +1,55 @@
-[
-    {
-        "uploaded": "1624684325",
-        "slow": false,
-        "host": "google",
-        "url": "url"
-    },
-    {
-        "uploaded": "1624684325",
-        "slow": false,
-        "host": "google",
-        "url": "url"
-    },
-    {
-        "uploaded": "1624684325",
-        "slow": false,
-        "host": "google",
-        "url": "url"
-    }
-]
+{
+    "windows": [
+        {
+            "type": "11",
+            "build": "21996",
+            "slow": false,
+            "host": "AnonFiles",
+            "url": "https://anonfiles.com/j78fH116u1/21996.1.210529-1541.co_release_CLIENT_CONSUMER_x64FRE_en-us_iso"
+        },
+        {
+            "type": "11",
+            "build": "21996",
+            "slow": false,
+            "host": "AnonFiles",
+            "url": "https://anonfiles.com/z3rfK519ud/21996.1.210529-1541.co_release_CLIENT_CONSUMER_x64FRE_en-us_iso"
+        },
+        {
+            "type": "11",
+            "build": "21996",
+            "slow": false,
+            "host": "Archive.org",
+            "url": "https://ia801503.us.archive.org/25/items/win11build21996/21996.1.210529-1541.co_release_CLIENT_CONSUMER_x64FRE_en-us%20%281%29.iso"
+        },
+        {
+            "type": "11",
+            "build": "21996",
+            "slow": false,
+            "host": "Archive.org",
+            "url": "https://ia801400.us.archive.org/13/items/21996.1.210529-1541.co-release-client-consumer-x-64-fre-en-us_20210616/21996.1.210529-1541.co_release_CLIENT_CONSUMER_x64FRE_en-us.iso"
+        },
+        {
+            "type": "11",
+            "build": "21996",
+            "slow": false,
+            "host": "Moebox",
+            "url": "https://moebox.pl/21996.1.210529-1541.co_release_CLIENT_CONSUMER_x64FRE_en-us.iso"
+        },
+        {
+            "type": "11",
+            "build": "21996",
+            "slow": false,
+            "host": "Mega.nz",
+            "url": "https://mega.nz/file/r2QCjJRQ#jUCxr0y6Y8gE0YkkgbAkv58sxksJW3EHOfmBmXbdxYs"
+        }
+    ],
+    "linux": [
+        {
+            "os": "Ubuntu",
+            "version": "20.1",
+            "slow": false,
+            "host": "google",
+            "url": "url"
+        }
+    ]
+}

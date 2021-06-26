@@ -1,4 +1,4 @@
-title = "Tools"
+title = "OS List"
 baseURL = "https://example.com"
 theme = "researcher"
 disableKinds = ["taxonomy", "term"]
@@ -12,8 +12,8 @@ googleAnalytics = ""  # add your tracking id
   favicon = "favicon.ico"  # path to a .ico to use as favicon
   logo = ""  # url or path to a logo to put in the header
   [params.footer]
-    text = "By Hyro"
-    url = "https://github.com/xHyroM"
+    text = "By Hyro, Contributors"
+    url = "https://github.com/xHyroM/tools"
   [params.style]  # appearance options (can be omitted)
     fontFamily = "Inconsolata"
     pageWidth = "750px"

@@ -4,8 +4,10 @@ title = "Index"
 
 ## Windows
 
-{{< links >}} 
+{{< windows >}} 
 
-## References
+## Linux
 
-* xxxxxxxx
+{{< linux >}} 
+
+* Thank you to all contributors.
