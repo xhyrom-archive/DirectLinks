@@ -43,7 +43,7 @@ jobs:
 
     # Step 5 - Create name file
     - name: Create cname file
-      run: echo 'dll.hyrousek.tk' > public/CNAME
+      run: echo 'dl.hyrousek.tk' > public/CNAME
 
     # Step 6 - Push our generated site to our gh-pages branch
     - name: Deploy
