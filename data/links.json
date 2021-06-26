@@ -3,14 +3,14 @@
         {
             "type": "11",
             "build": "21996",
-            "slow": false,
+            "slow": true,
             "host": "AnonFiles",
             "url": "https://anonfiles.com/j78fH116u1/21996.1.210529-1541.co_release_CLIENT_CONSUMER_x64FRE_en-us_iso"
         },
         {
             "type": "11",
             "build": "21996",
-            "slow": false,
+            "slow": true,
             "host": "AnonFiles",
             "url": "https://anonfiles.com/z3rfK519ud/21996.1.210529-1541.co_release_CLIENT_CONSUMER_x64FRE_en-us_iso"
         },
