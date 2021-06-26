@@ -1,34 +1,22 @@
-name: CI
-on: push
+
+on:
+  push:
+    branches:
+      - main
+
+env:
+  TOKEN: ${{ secrets.TOKEN }}
+  HUGO_ARGS: '--minify'
+
 jobs:
-  deploy:
-    runs-on: ubuntu-18.04
+  build:
+
+    runs-on: ubuntu-latest
+
     steps:
-      - name: Git checkout
-        uses: actions/checkout@v2
-
-      - name: Update theme
-        # (Optional)If you have the theme added as submodule, you can pull it and use the most updated version
-        run: git submodule update --init --recursive
-
-      - name: Setup hugo
-        uses: peaceiris/actions-hugo@v2
+      - name: 🛎 Check out master
+        uses: actions/checkout@master
         with:
-          hugo-version: "0.64.0"
-
-      - name: Build
-        # remove --minify tag if you do not need it
-        # docs: https://gohugo.io/hugo-pipes/minification/
-        run: hugo --minify
-
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          personal_token: ${{ secrets.TOKEN }}
-          external_repository: xHyroM/hugo
-          publish_dir: ./public
-          #   keep_files: true
-          user_name: xHyroM
-          user_email: general_kubo@email.com
-          publish_branch: master
-        #   cname: example.com
+          fetch-depth: 1
+      - name: 🚀 Build and deploy
+        uses: victoriadrake/hugo-latest-cd@master
