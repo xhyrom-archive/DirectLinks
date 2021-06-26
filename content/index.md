@@ -1,5 +1,5 @@
 +++
-title = "Index"
+title = "OS List"
 +++
 
 ## Windows

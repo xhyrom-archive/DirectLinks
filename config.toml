@@ -8,7 +8,7 @@ googleAnalytics = ""  # add your tracking id
 
 [params]
   author = "Hyro"
-  description = "A simple monospaced resume theme for Hugo."
+  description = "Here you will find the OS with links."
   favicon = "favicon.ico"  # path to a .ico to use as favicon
   logo = ""  # url or path to a logo to put in the header
   [params.footer]
