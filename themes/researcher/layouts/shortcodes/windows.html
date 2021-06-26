@@ -6,6 +6,7 @@
             <th scope="col">Type</th>
             <th scope="col">Url</th>
             <th scope="col">Fast</th>
+            <th scope="col">Contributor</th>
         </tr>
     </thead>
 
@@ -15,6 +16,7 @@
                 <td>Win {{.type}} | Build {{.build}}</td>
                 <td><a href="{{ .url }}">{{ .host }}</a></td>
                 <td>{{ .fast }}</td>
+                <td>{{ .contributor }}</td>
             </tr>
         {{ end }}
     </tbody>
