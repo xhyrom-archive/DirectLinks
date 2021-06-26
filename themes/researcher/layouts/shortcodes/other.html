@@ -1,0 +1,21 @@
+{{ $json := getJSON "/data/links.json" }}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">Type</th>
+            <th scope="col">Url</th>
+            <th scope="col">Slow</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        {{ range $json.other }}
+            <tr>
+                <td>{{.type}}</td>
+                <td><a href="{{ .url }}">{{ .host }}</a></td>
+                <td>{{ .slow }}</td>
+            </tr>
+        {{ end }}
+    </tbody>
+</table>

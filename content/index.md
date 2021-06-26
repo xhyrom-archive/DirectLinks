@@ -10,4 +10,8 @@ title = "Index"
 
 {{< linux >}} 
 
+## Utilities
+
+{{< other >}} 
+
 * Thank you to all contributors.
