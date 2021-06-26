@@ -20,5 +20,9 @@
   "dependencies": {
     "autoprefixer": "^10.2.6",
     "postcss-cli": "^8.3.1"
-  }
+  },
+  "directories": {
+    "doc": "docs"
+  },
+  "devDependencies": {}
 }
