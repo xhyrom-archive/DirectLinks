@@ -46,10 +46,31 @@
     "linux": [
         {
             "os": "Ubuntu",
-            "version": "20.1",
+            "version": "20.04",
             "fast": false,
-            "host": "google",
-            "url": "url"
+            "host": "Ubuntu",
+            "url": "https://releases.ubuntu.com/20.04.2.0/ubuntu-20.04.2.0-desktop-amd64.iso"
+        },
+        {
+            "os": "CentOS",
+            "version": "8.4",
+            "fast": false,
+            "host": "Rainside",
+            "url": "http://tux.rainside.sk/centos/8.4.2105/isos/x86_64/CentOS-8.4.2105-x86_64-boot.iso"
+        },
+        {
+            "os": "Manjaro",
+            "version": "21.0.7",
+            "fast": false,
+            "host": "Manjaro",
+            "url": "https://download.manjaro.org/xfce/21.0.7/manjaro-xfce-21.0.7-210614-linux510.iso"
+        },
+        {
+            "os": "Mageia",
+            "version": "8",
+            "fast": false,
+            "host": "Mirrorservice",
+            "url": "https://www.mirrorservice.org/sites/mageia.org/pub/mageia/iso/8/Mageia-8-x86_64/Mageia-8-x86_64.iso"
         }
     ],
     "other": [
