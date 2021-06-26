@@ -41,6 +41,10 @@ jobs:
     - name: Build
       run: hugo
 
+    # Step 5 - Create name file
+    - name: Create cname file
+      run: echo 'oslist.hyrousek.tk' > public/CNAME
+
     # Step 6 - Push our generated site to our gh-pages branch
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
