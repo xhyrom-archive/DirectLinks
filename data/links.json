@@ -45,7 +45,7 @@
         {
             "type": "XP",
             "build": "2013",
-            "fast": true,
+            "fast": false,
             "host": "AnonFiles",
             "url": "https://anonfiles.com/30l1mb38u2/en_windows_xp_professional_sp3_Nov_2013_Incl_SATA_Drivers_iso"
         }
