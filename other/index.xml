@@ -2,33 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>OS List</title>
-    <link>https://example.com/other/</link>
+    <link>https://dl.hyrousek.tk/other/</link>
     <description>Recent content on OS List</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://example.com/other/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://dl.hyrousek.tk/other/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Linux</title>
-      <link>https://example.com/other/linux/</link>
+      <link>https://dl.hyrousek.tk/other/linux/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/other/linux/</guid>
+      <guid>https://dl.hyrousek.tk/other/linux/</guid>
       <description>Linux OSUrlFastContributorFile SizeUbuntu 20.04Ubuntutrue Trio  - CentOS 8.4Rainsidetrue Trio  - Manjaro 21.0.7Manjarotrue Trio  - Mageia 8Mirrorservicetrue Trio  - RaspberryPiOS FullRaspberrySitetrue iZboxo  - RaspberryPiOS LiteRaspberrySitetrue iZboxo  - RaspberryPiOS DsktRaspberrySitetrue iZboxo  -  </description>
     </item>
     
     <item>
       <title>Utilities</title>
-      <link>https://example.com/other/utilities/</link>
+      <link>https://dl.hyrousek.tk/other/utilities/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/other/utilities/</guid>
+      <guid>https://dl.hyrousek.tk/other/utilities/</guid>
       <description>Utilities TypeUrlFastContributorFile SizePackage Managergooglefalse -  -  </description>
     </item>
     
     <item>
       <title>Windows</title>
-      <link>https://example.com/other/windows/</link>
+      <link>https://dl.hyrousek.tk/other/windows/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/other/windows/</guid>
+      <guid>https://dl.hyrousek.tk/other/windows/</guid>
       <description>Windows Windows 11 21996 | ISO ChecksumsSHA-512: 093bde5bdd8cc5cabb95517998c539cef198c4d5fb31eabcac5aff5f5cd4b4a3f716e8ae962758b0ae2a50f03f0144408f77ee4b83cd7ebceffa07805f2108e2SHA-256: b8426650c24a765c24083597a1eba48d9164802bd273b678c4fefe2a6da60dcbMD5: 179bfe07f7050093ee595ddd85a30201certutil -hashfile ISOFILE md5/SHA-512/SHA-256 TypeUrlFastContributorFile SizeWin 11 | Build 21996AnonFilesfalse -  - Win 11 | Build 21996AnonFilesfalse -  - Win 11 | Build 21996Archive.orgfalse -  - Win 11 | Build 21996Archive.</description>
     </item>
     
