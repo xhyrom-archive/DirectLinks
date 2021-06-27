@@ -5,65 +5,49 @@
             "build": "21996",
             "fast": false,
             "host": "AnonFiles",
-            "url": "https://anonfiles.com/j78fH116u1/21996.1.210529-1541.co_release_CLIENT_CONSUMER_x64FRE_en-us_iso",
-            "size": "4.5 GiB"
+            "url": "https://anonfiles.com/j78fH116u1/21996.1.210529-1541.co_release_CLIENT_CONSUMER_x64FRE_en-us_iso"
         },
         {
             "type": "11",
             "build": "21996",
             "fast": false,
             "host": "AnonFiles",
-            "url": "https://anonfiles.com/z3rfK519ud/21996.1.210529-1541.co_release_CLIENT_CONSUMER_x64FRE_en-us_iso",
-            "size": "4.5 GiB"
+            "url": "https://anonfiles.com/z3rfK519ud/21996.1.210529-1541.co_release_CLIENT_CONSUMER_x64FRE_en-us_iso"
         },
         {
             "type": "11",
             "build": "21996",
             "fast": false,
             "host": "Archive.org",
-            "url": "https://ia801503.us.archive.org/25/items/win11build21996/21996.1.210529-1541.co_release_CLIENT_CONSUMER_x64FRE_en-us%20%281%29.iso",
-            "size": "4.5 GiB"
+            "url": "https://ia801503.us.archive.org/25/items/win11build21996/21996.1.210529-1541.co_release_CLIENT_CONSUMER_x64FRE_en-us%20%281%29.iso"
         },
         {
             "type": "11",
             "build": "21996",
             "fast": false,
             "host": "Archive.org",
-            "url": "https://ia801400.us.archive.org/13/items/21996.1.210529-1541.co-release-client-consumer-x-64-fre-en-us_20210616/21996.1.210529-1541.co_release_CLIENT_CONSUMER_x64FRE_en-us.iso",
-            "size": "4.5 GiB"
+            "url": "https://ia801400.us.archive.org/13/items/21996.1.210529-1541.co-release-client-consumer-x-64-fre-en-us_20210616/21996.1.210529-1541.co_release_CLIENT_CONSUMER_x64FRE_en-us.iso"
         },
         {
             "type": "11",
             "build": "21996",
             "fast": false,
             "host": "Moebox",
-            "url": "https://moebox.pl/21996.1.210529-1541.co_release_CLIENT_CONSUMER_x64FRE_en-us.iso",
-            "size": "4.5 GiB"
+            "url": "https://moebox.pl/21996.1.210529-1541.co_release_CLIENT_CONSUMER_x64FRE_en-us.iso"
         },
         {
             "type": "11",
             "build": "21996",
             "fast": true,
             "host": "Mega.nz",
-            "url": "https://mega.nz/file/r2QCjJRQ#jUCxr0y6Y8gE0YkkgbAkv58sxksJW3EHOfmBmXbdxYs",
-            "size": "4.5 GiB"
+            "url": "https://mega.nz/file/r2QCjJRQ#jUCxr0y6Y8gE0YkkgbAkv58sxksJW3EHOfmBmXbdxYs"
         },
         {
             "type": "XP",
             "build": "2013",
             "fast": false,
             "host": "AnonFiles",
-            "url": "https://anonfiles.com/30l1mb38u2/en_windows_xp_professional_sp3_Nov_2013_Incl_SATA_Drivers_iso",
-            "size": "599.1 MiB"
-        },
-        {
-            "type": "95",
-            "build": "1995",
-            "fast": true,
-            "host": "Mega.nz",
-            "url": "https://mega.nz/file/fstxhKLB#o7L9bw2pAGVBi9bECRIY9SY1PZIXf2QhgNIiScB3an0",
-            "contributor": "Fire-The-Fox",
-            "size": "597.3 MiB"
+            "url": "https://anonfiles.com/30l1mb38u2/en_windows_xp_professional_sp3_Nov_2013_Incl_SATA_Drivers_iso"
         }
     ],
     "linux": [
@@ -124,7 +108,7 @@
             "contributor": "iZboxo"
         }
     ],
-    "other": [
+    "utilities": [
         {
             "type": "Package Manager",
             "fast": false,

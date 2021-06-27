@@ -1,6 +1,6 @@
 title = "OS List"
 baseURL = "https://example.com"
-theme = "researcher"
+#theme = "researcher"
 
 enableEmoji = true
 math = false          # enable KaTeX (https://katex.org/) globally
@@ -40,3 +40,6 @@ googleAnalytics = ""  # add your tracking id
 
 [markup.goldmark.renderer]
   unsafe = true
+
+[[resources]]
+  src = "**.md"
