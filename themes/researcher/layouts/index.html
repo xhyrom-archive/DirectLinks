@@ -1,8 +1,0 @@
-{{ $sass := resources.Get "sass/researcher.scss" }}
-{{ $style := $sass | resources.ToCSS | resources.Fingerprint }}
-
-{{ define "main" }}
-<div class="container">
-    {{ .Content }}
-</div>
-{{ end }}
