@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>List on OS List</title>
-    <link>https://example.com/</link>
-    <description>Recent content in List on OS List</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <title>OS List</title>
+    <link>https://example.com/other/</link>
+    <description>Recent content on OS List</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://example.com/other/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Linux</title>
       <link>https://example.com/other/linux/</link>
@@ -12,15 +12,6 @@
       
       <guid>https://example.com/other/linux/</guid>
       <description>Linux OSUrlFastContributorFile SizeUbuntu 20.04Ubuntutrue Trio  - CentOS 8.4Rainsidetrue Trio  - Manjaro 21.0.7Manjarotrue Trio  - Mageia 8Mirrorservicetrue Trio  - RaspberryPiOS FullRaspberrySitetrue iZboxo  - RaspberryPiOS LiteRaspberrySitetrue iZboxo  - RaspberryPiOS DsktRaspberrySitetrue iZboxo  -  </description>
-    </item>
-    
-    <item>
-      <title>List</title>
-      <link>https://example.com/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/</guid>
-      <description>Thank you to all contributors.  Windows Linux Utilities List</description>
     </item>
     
     <item>
