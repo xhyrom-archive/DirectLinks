@@ -12,9 +12,9 @@
     </thead>
 
     <tbody>
-        {{ range $json.windows }}
+        {{ range $json.utilities }}
             <tr>
-                <td>Win {{.type}} | Build {{.build}}</td>
+                <td>{{.type}}</td>
                 <td><a href="{{ .url }}">{{ .host }}</a></td>
                 <td>{{ .fast }}</td>
                 <td>{{ if .contributor }} {{ .contributor }} {{ else }} - {{ end }}</td>

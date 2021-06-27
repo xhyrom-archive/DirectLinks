@@ -7,6 +7,7 @@
             <th scope="col">Url</th>
             <th scope="col">Fast</th>
             <th scope="col">Contributor</th>
+            <th scope="col">File Size</th>
         </tr>
     </thead>
 
@@ -16,7 +17,8 @@
                 <td>{{.os}} {{.version}}</td>
                 <td><a href="{{ .url }}">{{ .host }}</a></td>
                 <td>{{ .fast }}</td>
-                <td>{{ .contributor }}</td>
+                <td>{{ if .contributor }} {{ .contributor }} {{ else }} - {{ end }}</td>
+                <td>{{ if .size }} {{ .size }} {{ else }} - {{ end }}</td>
             </tr>
         {{ end }}
     </tbody>
