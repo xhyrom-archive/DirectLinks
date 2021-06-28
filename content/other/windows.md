@@ -4,6 +4,8 @@ title = "Windows"
 
 ## Windows
 
+[Windows 11 First Insider Build](https://blogs.windows.com/windows-insider/2021/06/28/announcing-the-first-insider-preview-for-windows-11/)
+
 <details>
     <summary>Windows 11 21996 | ISO Checksums</summary>
     <b>SHA-512:</b> 093bde5bdd8cc5cabb95517998c539cef198c4d5fb31eabcac5aff5f5cd4b4a3f716e8ae962758b0ae2a50f03f0144408f77ee4b83cd7ebceffa07805f2108e2
