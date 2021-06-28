@@ -149,5 +149,15 @@
             "contributor": "DaneeSkripter",
             "size": "43.2 MiB"
         }
-    ]
+    ],
+    "images": [
+        {
+          "type": "PNG",
+          "host": "Mega.nz",
+          "url": "https://mega.nz/file/nHhjTAQQ#yXtjv5p0WmQa0ovXvzcQ7heFOuRFnykq5hq6QckPt-w",
+          "contributor": "xHyroM",
+          "preview": "https://cdn.discordapp.com/attachments/858764812146573332/859152914290704404/unknown.png",
+          "size": "3.26 MiB"
+      }
+  ]
 }
