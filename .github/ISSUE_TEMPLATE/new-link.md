@@ -11,7 +11,7 @@ assignees: ''
 The link URL.
 
 **Type**
-Windows/Linux
+Windows/Linux/Utilities/Image
 
 **Version**
 Win 10 | Build 29960
