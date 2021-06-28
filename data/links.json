@@ -2,6 +2,13 @@
     "windows": [
         {
             "type": "11",
+            "build": "22000",
+            "fast": true,
+            "host": "Microsoft",
+            "url": "https://blogs.windows.com/windows-insider/2021/06/28/announcing-the-first-insider-preview-for-windows-11/"
+        },
+        {
+            "type": "11",
             "build": "21996",
             "fast": false,
             "host": "AnonFiles",
@@ -47,6 +54,14 @@
             "host": "Mega.nz",
             "url": "https://mega.nz/file/r2QCjJRQ#jUCxr0y6Y8gE0YkkgbAkv58sxksJW3EHOfmBmXbdxYs",
             "size": "4.5 GiB"
+        },
+        {
+            "type": "7",
+            "build": "7601",
+            "fast": true,
+            "host": "Mega.nz",
+            "url": "https://mega.nz/file/Xmo2HLRb#7LIl8Y8HaMY4ynQ9YduiUC1Jw6YwjiPkZaS-Le8qZvY",
+            "size": "3.09 GiB"
         },
         {
             "type": "XP",
@@ -130,7 +145,8 @@
             "fast": true,
             "host": "Mega.nz",
             "url": "https://mega.nz/file/DyZVFCYQ#w4ksWUwgtI387wIPPvaczsFCCCdgXJ51e7dLy8yGH-M",
-            "contributor": "DaneeSkripter"
+            "contributor": "DaneeSkripter",
+            "size": "43.2 MiB"
         }
     ]
 }
