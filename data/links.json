@@ -2,6 +2,13 @@
     "windows": [
         {
             "type": "11",
+            "build": "22000",
+            "fast": true,
+            "host": "Microsoft",
+            "url": "https://blogs.windows.com/windows-insider/2021/06/28/announcing-the-first-insider-preview-for-windows-11/"
+        },
+        {
+            "type": "11",
             "build": "21996",
             "fast": false,
             "host": "AnonFiles",
