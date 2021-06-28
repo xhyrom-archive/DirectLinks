@@ -49,6 +49,14 @@
             "size": "4.5 GiB"
         },
         {
+            "type": "7",
+            "build": "7601",
+            "fast": true,
+            "host": "Mega.nz",
+            "url": "https://mega.nz/file/Xmo2HLRb#7LIl8Y8HaMY4ynQ9YduiUC1Jw6YwjiPkZaS-Le8qZvY",
+            "size": "3.09 GiB"
+        },
+        {
             "type": "XP",
             "build": "2013",
             "fast": false,
@@ -130,7 +138,8 @@
             "fast": true,
             "host": "Mega.nz",
             "url": "https://mega.nz/file/DyZVFCYQ#w4ksWUwgtI387wIPPvaczsFCCCdgXJ51e7dLy8yGH-M",
-            "contributor": "DaneeSkripter"
+            "contributor": "DaneeSkripter",
+            "size": "43.2 MiB"
         }
     ]
 }
