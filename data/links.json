@@ -125,11 +125,12 @@
         }
     ],
     "utilities": [
-        {
-            "type": "Package Manager",
-            "fast": false,
-            "host": "google",
-            "url": "url"
+          {
+            "type": "Firefox 52.0 (For Windows XP)",
+            "fast": true,
+            "host": "Mega.nz",
+            "url": "https://mega.nz/file/DyZVFCYQ#w4ksWUwgtI387wIPPvaczsFCCCdgXJ51e7dLy8yGH-M",
+            "contributor": "DaneeSkripter"
         }
     ]
 }
