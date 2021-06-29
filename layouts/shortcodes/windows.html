@@ -3,6 +3,7 @@
 <table class="table">
     <thead>
         <tr>
+            <th scope="col">Version</th>
             <th scope="col">Type</th>
             <th scope="col">Url</th>
             <th scope="col">Fast</th>
@@ -14,7 +15,8 @@
     <tbody>
         {{ range $json.windows }}
             <tr>
-                <td>Win {{.type}} | Build {{.build}}</td>
+                <td>Win {{.version}} | Build {{.build}}</td>
+                <td>{{.type}}</td>
                 <td><a href="{{ .url }}">{{ .host }}</a></td>
                 <td>{{ .fast }}</td>
                 <td>{{ if .contributor }} {{ .contributor }} {{ else }} - {{ end }}</td>
