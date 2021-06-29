@@ -93,13 +93,21 @@
         }
     ],
     "linux": [
-        {
+       {
             "os": "Ubuntu",
             "version": "20.04",
             "fast": true,
             "host": "Ubuntu",
             "url": "https://releases.ubuntu.com/20.04.2.0/ubuntu-20.04.2.0-desktop-amd64.iso",
             "contributor": "Trio"
+       },
+       {
+            "os": "Ubuntu Server",
+            "version": "20.04.2 LTS",
+            "fast": true,
+            "host": "Ubuntu",
+            "url": "https://releases.ubuntu.com/20.04.2/ubuntu-20.04.2-live-server-amd64.iso",
+            "contributor": "Slenky"
         },
         {
             "os": "CentOS",
