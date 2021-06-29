@@ -1,7 +1,8 @@
 {
     "windows": [
         {
-            "type": "11",
+            "version": "11",
+            "type": "x64",
             "build": "22000",
             "fast": true,
             "host": "Mega.nz",
