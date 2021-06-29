@@ -2,6 +2,14 @@
     "windows": [
         {
             "type": "11",
+            "build": "22000",
+            "fast": true,
+            "host": "Mega.nz",
+            "url": "https://mega.nz/file/khIVlIBa#CFfCaBGo7_RaMffMttuQzQm7uZJZNQ3RsY3dPqQRkAI",
+            "contributor": "Fire-The-Fox"
+        },
+        {
+            "type": "11",
             "build": "21996",
             "fast": false,
             "host": "AnonFiles",
