@@ -153,6 +153,16 @@
             "url": "https://mega.nz/file/fstxhKLB#o7L9bw2pAGVBi9bECRIY9SY1PZIXf2QhgNIiScB3an0",
             "contributor": "Fire-The-Fox",
             "size": "597.3 MiB"
+        },
+        {
+            "version": "1",
+            "build": "01",
+            "type": "-",
+            "fast": true,
+            "host": "Mega.nz",
+            "url": "https://mega.nz/file/AsJ1zCDY#JUSHVVxn3gMNEEz-JwIRjALH3DjGJd533YYfgdFwz18",
+            "contributor": "xHyroM",
+            "size": "610 KiB"
         }
     ],
     "linux": [
