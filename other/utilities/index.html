@@ -11,8 +11,8 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous">
 
     
+
     <link rel="stylesheet" href="/sass/researcher.min.css">
-    <link rel="stylesheet" href="https://xhyrom.github.io/OSList/sass/researcher.min.css">
 
     
         <link rel="icon" type="image/ico" href="https://dl.hyrousek.tk/favicon.ico">
@@ -56,9 +56,33 @@
 <div id="content">
 <div class="container">
     <h2 id="utilities">Utilities</h2>
+<br>
+<input class="form-control" type="text" id="searchInput" onkeyup="searchFun()" placeholder="Search">
+
+<script>
+    function searchFun() {
+      let input, filter, table, tr, td, i, txtValue;
+      input = document.getElementById("searchInput");
+      filter = input.value.toUpperCase();
+      table = document.getElementById("utilitiesTable");
+      tr = table.getElementsByTagName("tr");
+    
+      for (i = 0; i < tr.length; i++) {
+        td = tr[i].getElementsByTagName("td")["0"];
+        if (td) {
+          txtValue = td.textContent || td.innerText;
+          if (txtValue.toUpperCase().indexOf(filter) > -1) {
+            tr[i].style.display = "";
+          } else {
+            tr[i].style.display = "none";
+          }
+        }
+      }
+    }
+</script>
 
 
-<table class="table">
+<table class="table" id="utilitiesTable">
     <thead>
         <tr>
             <th scope="col">Type</th>
