@@ -9,71 +9,186 @@
             "contributor": "Fire-The-Fox"
         },
         {
-            "type": "11",
+            "version": "11",
+            "build": "22000",
+            "type": "x64",
+            "fast": "-",
+            "host": "MDE Android Files",
+            "url": "https://mde1.androidfilehost.com/dl/WabY_OZ0hlKC1Ivxk_ABgw/1625070276/14943124697586357631/Download+Windows+11+%2810.0.22000.51+Insider+Preview+Build+ISO%29.ISO",
+            "size": "4.4 GiB"
+        },
+        {
+            "version": "11",
+            "build": "22000",
+            "type": "x64",
+            "fast": "-",
+            "host": "MGB Android Files",
+            "url": "https://mgb1.androidfilehost.com/dl/WabY_OZ0hlKC1Ivxk_ABgw/1625070276/14943124697586357631/Download+Windows+11+%2810.0.22000.51+Insider+Preview+Build+ISO%29.ISO",
+            "size": "4.4 GiB"
+        },
+        {
+            "version": "11",
+            "build": "22000",
+            "type": "x64",
+            "fast": "-",
+            "host": "MPL Android Files",
+            "url": "https://mpl1.androidfilehost.com/dl/WabY_OZ0hlKC1Ivxk_ABgw/1625070276/14943124697586357631/Download+Windows+11+%2810.0.22000.51+Insider+Preview+Build+ISO%29.ISO",
+            "size": "4.4 GiB"
+        },
+        {
+            "version": "11",
+            "build": "22000",
+            "type": "x64",
+            "fast": "-",
+            "host": "MOR Android Files",
+            "url": "https://mor1.androidfilehost.com/dl/WabY_OZ0hlKC1Ivxk_ABgw/1625070276/14943124697586357631/Download+Windows+11+%2810.0.22000.51+Insider+Preview+Build+ISO%29.ISO",
+            "size": "4.4 GiB"
+        },
+        {
+            "version": "11",
+            "build": "22000",
+            "type": "x64",
+            "fast": "-",
+            "host": "MDE Android Files",
+            "url": "https://mde1.androidfilehost.com/dl/WabY_OZ0hlKC1Ivxk_ABgw/1625070276/14943124697586357631/Download+Windows+11+%2810.0.22000.51+Insider+Preview+Build+ISO%29.ISO",
+            "size": "4.4 GiB"
+        },
+        {
+            "version": "11",
+            "build": "22000",
+            "type": "x64",
+            "fast": "-",
+            "host": "MVA1 Android Files",
+            "url": "https://mva1.androidfilehost.com/dl/QZRDN39NAo6UVpHfe2d-LA/1625070958/14943124697586357631/Download+Windows+11+%2810.0.22000.51+Insider+Preview+Build+ISO%29.ISO",
+            "size": "4.4 GiB"
+        },
+        {
+            "version": "11",
+            "build": "22000",
+            "type": "x64",
+            "fast": "-",
+            "host": "MVA2 Android Files",
+            "url": "https://mva2.androidfilehost.com/dl/WabY_OZ0hlKC1Ivxk_ABgw/1625070276/14943124697586357631/Download+Windows+11+%2810.0.22000.51+Insider+Preview+Build+ISO%29.ISO",
+            "size": "4.4 GiB"
+        },
+        {
+            "version": "11",
+            "build": "22000",
+            "type": "x64/x86",
+            "fast": true,
+            "host": "Microsoft",
+            "url": "https://blogs.windows.com/windows-insider/2021/06/28/announcing-the-first-insider-preview-for-windows-11/"
+        },
+        {
+            "version": "11",
             "build": "21996",
+            "type": "x64/x86",
             "fast": false,
             "host": "AnonFiles",
-            "url": "https://anonfiles.com/j78fH116u1/21996.1.210529-1541.co_release_CLIENT_CONSUMER_x64FRE_en-us_iso"
+            "url": "https://anonfiles.com/j78fH116u1/21996.1.210529-1541.co_release_CLIENT_CONSUMER_x64FRE_en-us_iso",
+            "size": "4.5 GiB"
         },
         {
-            "type": "11",
+            "version": "11",
             "build": "21996",
+            "type": "x64/x86",
             "fast": false,
             "host": "AnonFiles",
-            "url": "https://anonfiles.com/z3rfK519ud/21996.1.210529-1541.co_release_CLIENT_CONSUMER_x64FRE_en-us_iso"
+            "url": "https://anonfiles.com/z3rfK519ud/21996.1.210529-1541.co_release_CLIENT_CONSUMER_x64FRE_en-us_iso",
+            "size": "4.5 GiB"
         },
         {
-            "type": "11",
+            "version": "11",
             "build": "21996",
+            "type": "x64/x86",
             "fast": false,
             "host": "Archive.org",
-            "url": "https://ia801503.us.archive.org/25/items/win11build21996/21996.1.210529-1541.co_release_CLIENT_CONSUMER_x64FRE_en-us%20%281%29.iso"
+            "url": "https://ia801503.us.archive.org/25/items/win11build21996/21996.1.210529-1541.co_release_CLIENT_CONSUMER_x64FRE_en-us%20%281%29.iso",
+            "size": "4.5 GiB"
         },
         {
-            "type": "11",
+            "version": "11",
             "build": "21996",
+            "type": "x64/x86",
             "fast": false,
             "host": "Archive.org",
-            "url": "https://ia801400.us.archive.org/13/items/21996.1.210529-1541.co-release-client-consumer-x-64-fre-en-us_20210616/21996.1.210529-1541.co_release_CLIENT_CONSUMER_x64FRE_en-us.iso"
+            "url": "https://ia801400.us.archive.org/13/items/21996.1.210529-1541.co-release-client-consumer-x-64-fre-en-us_20210616/21996.1.210529-1541.co_release_CLIENT_CONSUMER_x64FRE_en-us.iso",
+            "size": "4.5 GiB"
         },
         {
-            "type": "11",
+            "version": "11",
             "build": "21996",
+            "type": "x64/x86",
             "fast": false,
             "host": "Moebox",
-            "url": "https://moebox.pl/21996.1.210529-1541.co_release_CLIENT_CONSUMER_x64FRE_en-us.iso"
+            "url": "https://moebox.pl/21996.1.210529-1541.co_release_CLIENT_CONSUMER_x64FRE_en-us.iso",
+            "size": "4.5 GiB"
         },
         {
-            "type": "11",
+            "version": "11",
             "build": "21996",
+            "type": "x64/x86",
             "fast": true,
             "host": "Mega.nz",
-            "url": "https://mega.nz/file/r2QCjJRQ#jUCxr0y6Y8gE0YkkgbAkv58sxksJW3EHOfmBmXbdxYs"
+            "url": "https://mega.nz/file/r2QCjJRQ#jUCxr0y6Y8gE0YkkgbAkv58sxksJW3EHOfmBmXbdxYs",
+            "size": "4.5 GiB"
         },
         {
-            "type": "XP",
+            "version": "7",
+            "build": "7601",
+            "type": "x64",
+            "fast": true,
+            "host": "Mega.nz",
+            "url": "https://mega.nz/file/Xmo2HLRb#7LIl8Y8HaMY4ynQ9YduiUC1Jw6YwjiPkZaS-Le8qZvY",
+            "size": "3.09 GiB",
+            "contributor": "DaneeSkripter"
+        },
+        {
+            "version": "XP",
             "build": "2013",
+            "type": "x64/x86",
             "fast": false,
             "host": "AnonFiles",
-            "url": "https://anonfiles.com/30l1mb38u2/en_windows_xp_professional_sp3_Nov_2013_Incl_SATA_Drivers_iso"
+            "url": "https://anonfiles.com/30l1mb38u2/en_windows_xp_professional_sp3_Nov_2013_Incl_SATA_Drivers_iso",
+            "size": "599.1 MiB"
         },
         {
-            "type": "95",
+            "version": "95",
             "build": "1995",
+            "type": "x64/x86",
             "fast": true,
             "host": "Mega.nz",
             "url": "https://mega.nz/file/fstxhKLB#o7L9bw2pAGVBi9bECRIY9SY1PZIXf2QhgNIiScB3an0",
-            "contributor": "Fire-The-Fox"
+            "contributor": "Fire-The-Fox",
+            "size": "597.3 MiB"
+        },
+        {
+            "version": "1",
+            "build": "01",
+            "type": "x16",
+            "fast": true,
+            "host": "Mega.nz",
+            "url": "https://mega.nz/file/AsJ1zCDY#JUSHVVxn3gMNEEz-JwIRjALH3DjGJd533YYfgdFwz18",
+            "contributor": "xHyroM",
+            "size": "610 KiB"
         }
     ],
     "linux": [
-        {
+       {
             "os": "Ubuntu",
             "version": "20.04",
             "fast": true,
             "host": "Ubuntu",
             "url": "https://releases.ubuntu.com/20.04.2.0/ubuntu-20.04.2.0-desktop-amd64.iso",
             "contributor": "Trio"
+       },
+       {
+            "os": "Ubuntu Server",
+            "version": "20.04.2 LTS",
+            "fast": true,
+            "host": "Ubuntu",
+            "url": "https://releases.ubuntu.com/20.04.2/ubuntu-20.04.2-live-server-amd64.iso",
+            "contributor": "Slenky"
         },
         {
             "os": "CentOS",
@@ -124,12 +239,161 @@
             "contributor": "iZboxo"
         }
     ],
-    "other": [
-        {
-            "type": "Package Manager",
-            "fast": false,
-            "host": "google",
-            "url": "url"
+    "utilities": [
+          {
+            "type": "Firefox 52.0 (For Windows XP)",
+            "fast": true,
+            "host": "Mega.nz",
+            "url": "https://mega.nz/file/DyZVFCYQ#w4ksWUwgtI387wIPPvaczsFCCCdgXJ51e7dLy8yGH-M",
+            "contributor": "DaneeSkripter",
+            "size": "43.2 MiB"
         }
-    ]
+    ],
+    "images": [
+        {
+          "type": "PNG",
+          "host": "Mega.nz",
+          "url": "https://mega.nz/file/nHhjTAQQ#yXtjv5p0WmQa0ovXvzcQ7heFOuRFnykq5hq6QckPt-w",
+          "contributor": "xHyroM",
+          "preview": "https://cdn.discordapp.com/attachments/858764812146573332/859152914290704404/unknown.png",
+          "size": "3.26 MiB"
+      },
+      {
+          "type": "JPG",
+          "host": "Google Drive",
+          "url": "https://drive.google.com/file/d/19dnGdZTfktehcwVDQvOPUprqMkH4kKMi/view?usp=sharing",
+          "contributor": "xHyroM",
+          "preview": "https://www.ytechb.com/wp-content/uploads/2021/06/Windows-11-Wallpaper-thumb-1.webp"
+      },
+      {
+          "type": "JPG",
+          "host": "Google Drive",
+          "url": "https://drive.google.com/file/d/1rbrgYUSZu-XYGaSUePgeflLOOB9mef4M/view?usp=sharing",
+          "contributor": "xHyroM",
+          "preview": "https://www.ytechb.com/wp-content/uploads/2021/06/Windows-11-Wallpaper-thumb-2.webp"
+      },
+      {
+          "type": "JPG",
+          "host": "Google Drive",
+          "url": "https://drive.google.com/file/d/1VF2vPnHz_4gCF22IWfJbR-aYxSVBfQCZ/view?usp=sharing",
+          "contributor": "xHyroM",
+          "preview": "https://www.ytechb.com/wp-content/uploads/2021/06/Windows-11-Wallpaper-15.webp"
+      },
+      {
+          "type": "JPG",
+          "host": "Google Drive",
+          "url": "https://drive.google.com/file/d/1FZTddkXNIYfsB3CgDe78lgiEb_U4ZdkT/view?usp=sharing",
+          "contributor": "xHyroM",
+          "preview": "https://www.ytechb.com/wp-content/uploads/2021/06/Windows-11-Wallpaper-5.webp"
+      },
+      {
+          "type": "JPG",
+          "host": "Google Drive",
+          "url": "https://www.ytechb.com/wp-content/uploads/2021/06/Windows-11-Wallpaper-3.webp",
+          "contributor": "xHyroM",
+          "preview": "https://www.ytechb.com/wp-content/uploads/2021/06/Windows-11-Wallpaper-3.webp"
+      },
+      {
+          "type": "JPG",
+          "host": "Google Drive",
+          "url": "https://drive.google.com/file/d/17y17H2l76TNmu1-oo6Mpb6aYnS2blvDH/view?usp=sharing",
+          "contributor": "xHyroM",
+          "preview": "https://www.ytechb.com/wp-content/uploads/2021/06/Windows-11-Wallpaper-7.webp"
+      },
+      {
+          "type": "JPG",
+          "host": "Google Drive",
+          "url": "https://drive.google.com/file/d/1Jo0MQURMyBbGykIHmHnBFvJntjvxUo8W/view?usp=sharing",
+          "contributor": "xHyroM",
+          "preview": "https://www.ytechb.com/wp-content/uploads/2021/06/Windows-11-Wallpaper-20.webp"
+      },
+      {
+          "type": "JPG",
+          "host": "Mega.nz",
+          "url": "https://mega.nz/file/7PhmkCCB#68_HubvCtQpv2o1OYtRGlqcTE3Lvjd_PIr4qAcexu9A",
+          "contributor": "xHyroM",
+          "preview": "https://cdn.hytale.com/5e7b9ecb50cbcd001176c5c1_11___z2_camels.png",
+          "size": "319 KiB"
+      },
+      {
+          "type": "JPG",
+          "host": "Mega.nz",
+          "url": "https://mega.nz/file/ODpWVaxL#ZLFfWcNGyvmUrNjFu5rbql1Ya1EuaPRUqW8vepqYyNM",
+          "contributor": "xHyroM",
+          "preview": "https://mega.nz/file/ODpWVaxL#ZLFfWcNGyvmUrNjFu5rbql1Ya1EuaPRUqW8vepqYyNM",
+          "size": "346 KiB"
+      },
+      {
+          "type": "JPG",
+          "host": "Mega.nz",
+          "url": "https://mega.nz/file/6axAzKgD#VKSOPey1LuBG7MR_V_JtJl7gyZfowJD2qhsHhPKilAQ",
+          "contributor": "xHyroM",
+          "preview": "https://mega.nz/file/6axAzKgD#VKSOPey1LuBG7MR_V_JtJl7gyZfowJD2qhsHhPKilAQ",
+          "size": "367 KiB"
+      },
+      {
+          "type": "JPG",
+          "host": "Mega.nz",
+          "url": "https://mega.nz/file/HWpSGaZJ#lGF0K66ixbm1QMGuCfpfz7S_huRCi0Cyphn2eV99QDw",
+          "contributor": "xHyroM",
+          "preview": "https://mega.nz/file/HWpSGaZJ#lGF0K66ixbm1QMGuCfpfz7S_huRCi0Cyphn2eV99QDw",
+          "size": "380 KiB"
+      },
+      {
+          "type": "JPG",
+          "host": "Mega.nz",
+          "url": "https://mega.nz/file/eewSFATB#5LchJXfS8bvMN4bH2XtggHepJXco2x1i8NzW9JWjBx4",
+          "contributor": "xHyroM",
+          "preview": "https://mega.nz/file/eewSFATB#5LchJXfS8bvMN4bH2XtggHepJXco2x1i8NzW9JWjBx4",
+          "size": "420 KiB"
+      },
+      {
+          "type": "JPG",
+          "host": "Mega.nz",
+          "url": "https://mega.nz/file/HGpS1YrK#sjv3DdYif5XPluAymvz_h_-7BIyEGriHpl-FXH0_CBE",
+          "contributor": "xHyroM",
+          "preview": "https://mega.nz/file/HGpS1YrK#sjv3DdYif5XPluAymvz_h_-7BIyEGriHpl-FXH0_CBE",
+          "size": "428 KiB"
+      },
+      {
+          "type": "JPG",
+          "host": "Mega.nz",
+          "url": "https://mega.nz/file/qCJkyJqK#i_1o_OQM30N3untBKGD7wTXRPJGfflqhArrhdQtfNyg",
+          "contributor": "xHyroM",
+          "preview": "https://mega.nz/file/qCJkyJqK#i_1o_OQM30N3untBKGD7wTXRPJGfflqhArrhdQtfNyg",
+          "size": "1 MiB"
+      },
+      {
+          "type": "Webp",
+          "host": "Mega.nz",
+          "url": "https://mega.nz/file/GWIzUQCL#BMbJ4QJ3B2l7OZ9Jg-WGD9AsDoc0IKvN8akb9m_AKkE",
+          "contributor": "xHyroM",
+          "preview": "https://mega.nz/file/GWIzUQCL#BMbJ4QJ3B2l7OZ9Jg-WGD9AsDoc0IKvN8akb9m_AKkE",
+          "size": "44 KiB"
+      }, 
+      {
+          "type": "Webp",
+          "host": "Mega.nz",
+          "url": "https://mega.nz/file/2DYnWKSL#20QyGL3urjM_Ur2RxI0uF9YEiyOarzau4v9BLpPHkHE",
+          "contributor": "xHyroM",
+          "preview": "https://mega.nz/file/2DYnWKSL#20QyGL3urjM_Ur2RxI0uF9YEiyOarzau4v9BLpPHkHE",
+          "size": "3 KiB"
+      }, 
+      {
+          "type": "JPG",
+          "host": "Mega.nz",
+          "url": "https://mega.nz/file/2bA3AQwb#Yp68XL6uEePCCg8iap2rMWbpZHBTlcWm_c4lDsc3Ngg",
+          "contributor": "xHyroM",
+          "preview": "https://mega.nz/file/2bA3AQwb#Yp68XL6uEePCCg8iap2rMWbpZHBTlcWm_c4lDsc3Ngg",
+          "size": "3.1 MiB"
+      }, 
+      {
+          "type": "JPG",
+          "host": "Mega.nz",
+          "url": "https://mega.nz/file/PGYBmSqD#wGocajAwTvskcxJPQnUImR1oTE5YKYLE3Mf1OcThhk0",
+          "contributor": "xHyroM",
+          "preview": "https://mega.nz/file/PGYBmSqD#wGocajAwTvskcxJPQnUImR1oTE5YKYLE3Mf1OcThhk0",
+          "size": "212 KiB"
+      }
+  ]
 }
