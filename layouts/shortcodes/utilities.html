@@ -1,22 +1,24 @@
 {{ $json := getJSON "/data/links.json" }}
 
-<table class="table">
+<table class="table" id="utilitiesTable">
     <thead>
         <tr>
             <th scope="col">Type</th>
             <th scope="col">Url</th>
             <th scope="col">Fast</th>
             <th scope="col">Contributor</th>
+            <th scope="col">File Size</th>
         </tr>
     </thead>
 
     <tbody>
-        {{ range $json.other }}
+        {{ range $json.utilities }}
             <tr>
                 <td>{{.type}}</td>
                 <td><a href="{{ .url }}">{{ .host }}</a></td>
                 <td>{{ .fast }}</td>
-                <td>{{ .contributor }}</td>
+                <td>{{ if .contributor }} {{ .contributor }} {{ else }} - {{ end }}</td>
+                <td>{{ if .size }} {{ .size }} {{ else }} - {{ end }}</td>
             </tr>
         {{ end }}
     </tbody>
