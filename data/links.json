@@ -157,6 +157,16 @@
             "size": "4.5 GiB"
         },
         {
+            "version": "10",
+            "build": "20H2",
+            "type": "x64",
+            "fast": true,
+            "host": "Mega.nz",
+            "url": "https://mega.nz/file/SrZwjZaI#jNGvz4JxZqYwdmJzxt1cxyNd_vDAWvk3NXuNM8WdyiM",
+            "size": "4.45 GiB",
+            "contributor": "DaneeSkripter"
+        },
+        {
             "version": "7",
             "build": "7601",
             "type": "x64",
