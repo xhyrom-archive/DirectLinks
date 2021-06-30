@@ -43,69 +43,6 @@
         {
             "version": "11",
             "build": "22000",
-            "type": "x64",
-            "fast": "-",
-            "host": "MDE Android Files",
-            "url": "https://mde1.androidfilehost.com/dl/WabY_OZ0hlKC1Ivxk_ABgw/1625070276/14943124697586357631/Download+Windows+11+%2810.0.22000.51+Insider+Preview+Build+ISO%29.ISO",
-            "size": "4.4 GiB"
-        },
-        {
-            "version": "11",
-            "build": "22000",
-            "type": "x64",
-            "fast": "-",
-            "host": "MGB Android Files",
-            "url": "https://mgb1.androidfilehost.com/dl/WabY_OZ0hlKC1Ivxk_ABgw/1625070276/14943124697586357631/Download+Windows+11+%2810.0.22000.51+Insider+Preview+Build+ISO%29.ISO",
-            "size": "4.4 GiB"
-        },
-        {
-            "version": "11",
-            "build": "22000",
-            "type": "x64",
-            "fast": "-",
-            "host": "MPL Android Files",
-            "url": "https://mpl1.androidfilehost.com/dl/WabY_OZ0hlKC1Ivxk_ABgw/1625070276/14943124697586357631/Download+Windows+11+%2810.0.22000.51+Insider+Preview+Build+ISO%29.ISO",
-            "size": "4.4 GiB"
-        },
-        {
-            "version": "11",
-            "build": "22000",
-            "type": "x64",
-            "fast": "-",
-            "host": "MOR Android Files",
-            "url": "https://mor1.androidfilehost.com/dl/WabY_OZ0hlKC1Ivxk_ABgw/1625070276/14943124697586357631/Download+Windows+11+%2810.0.22000.51+Insider+Preview+Build+ISO%29.ISO",
-            "size": "4.4 GiB"
-        },
-        {
-            "version": "11",
-            "build": "22000",
-            "type": "x64",
-            "fast": "-",
-            "host": "MDE Android Files",
-            "url": "https://mde1.androidfilehost.com/dl/WabY_OZ0hlKC1Ivxk_ABgw/1625070276/14943124697586357631/Download+Windows+11+%2810.0.22000.51+Insider+Preview+Build+ISO%29.ISO",
-            "size": "4.4 GiB"
-        },
-        {
-            "version": "11",
-            "build": "22000",
-            "type": "x64",
-            "fast": "-",
-            "host": "MVA1 Android Files",
-            "url": "https://mva1.androidfilehost.com/dl/QZRDN39NAo6UVpHfe2d-LA/1625070958/14943124697586357631/Download+Windows+11+%2810.0.22000.51+Insider+Preview+Build+ISO%29.ISO",
-            "size": "4.4 GiB"
-        },
-        {
-            "version": "11",
-            "build": "22000",
-            "type": "x64",
-            "fast": "-",
-            "host": "MVA2 Android Files",
-            "url": "https://mva2.androidfilehost.com/dl/WabY_OZ0hlKC1Ivxk_ABgw/1625070276/14943124697586357631/Download+Windows+11+%2810.0.22000.51+Insider+Preview+Build+ISO%29.ISO",
-            "size": "4.4 GiB"
-        },
-        {
-            "version": "11",
-            "build": "22000",
             "type": "x64/x86",
             "fast": true,
             "host": "Microsoft",
