@@ -131,15 +131,6 @@
             "version": "11",
             "build": "21996",
             "type": "x64/x86",
-            "fast": false,
-            "host": "Moebox",
-            "url": "https://moebox.pl/21996.1.210529-1541.co_release_CLIENT_CONSUMER_x64FRE_en-us.iso",
-            "size": "4.5 GiB"
-        },
-        {
-            "version": "11",
-            "build": "21996",
-            "type": "x64/x86",
             "fast": true,
             "host": "Mega.nz",
             "url": "https://mega.nz/file/r2QCjJRQ#jUCxr0y6Y8gE0YkkgbAkv58sxksJW3EHOfmBmXbdxYs",
