@@ -12,7 +12,7 @@
         },
         {
             "version": "11",
-            "type": "x64",
+            "type": "x64/x86",
             "build": "22000",
             "fast": true,
             "host": "Moebox (reqs bypass)",
