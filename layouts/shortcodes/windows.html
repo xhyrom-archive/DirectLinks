@@ -1,6 +1,6 @@
 {{ $json := getJSON "/data/links.json" }}
 
-<table class="table" id="windowsTable">
+<table class="table">
     <thead>
         <tr>
             <th scope="col">Version</th>
@@ -12,7 +12,7 @@
         </tr>
     </thead>
 
-    <tbody>
+    <tbody id="windowsTable">
         {{ range $json.windows }}
             <tr>
                 <td>Win {{.version}} | Build {{.build}}</td>

@@ -1,8 +1,16 @@
 <br>
-<input class="form-control" type="text" id="searchInput" onkeyup="searchFun()" placeholder="Search">
+<input class="form-control" type="text" id="searchInput" placeholder="Search">
 
 <script>
-    function searchFun() {
+  $(document).ready(function(){
+    $("#searchInput").on("keyup", function() {
+      var value = $(this).val().toLowerCase();
+      $("#{{ .Get `id` }} tr").filter(function() {
+        $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
+      });
+    });
+  });
+    /*function searchFun() {
       let input, filter, table, tr, td, i, txtValue;
       input = document.getElementById("searchInput");
       filter = input.value.toUpperCase();
@@ -20,5 +28,5 @@
           }
         }
       }
-    }
+    }*/
 </script>
