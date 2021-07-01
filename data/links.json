@@ -104,6 +104,16 @@
             "contributor": "DaneeSkripter"
         },
         {
+            "version": "8",
+            "build": "9600",
+            "type": "x64",
+            "fast": true,
+            "host": "Send CM",
+            "url": "https://send.cm/d/3Vz6",
+            "size": "4.0 GiB",
+            "contributor": "TomWareC"
+        },
+        {
             "version": "7",
             "build": "7601",
             "type": "x64",
