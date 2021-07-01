@@ -114,6 +114,16 @@
             "contributor": "TomWareC"
         },
         {
+            "version": "8",
+            "build": "9600",
+            "type": "x64",
+            "fast": true,
+            "host": "GoFile",
+            "url": "https://gofile.io/d/klNqHk",
+            "size": "4.0 GiB",
+            "contributor": "TomWareC"
+        },
+        {
             "version": "7",
             "build": "7601",
             "type": "x64",
@@ -124,6 +134,36 @@
             "contributor": "DaneeSkripter"
         },
         {
+            "version": "Longhorn (Vista)",
+            "build": "4051",
+            "type": "x64",
+            "fast": true,
+            "host": "Go File",
+            "url": "https://gofile.io/d/tgZkYb",
+            "size": "692.2 MiB",
+            "contributor": "TomWareC"
+        },
+        {
+            "version": "Longhorn (Vista)",
+            "build": "4051",
+            "type": "x64",
+            "fast": true,
+            "host": "Send CM",
+            "url": "https://send.cm/d/3WD8",
+            "size": "692.2 MiB",
+            "contributor": "TomWareC"
+        },
+        {
+            "version": "Longhorn (Vista)",
+            "build": "4051",
+            "type": "x64",
+            "fast": true,
+            "host": "Mega.nz",
+            "url": "https://mega.nz/file/PsFXxQhB#wO8Khn-2xgF7mfhmhrLZWVNwmom5tRWIkeb2LlqwoMU",
+            "size": "692.2 MiB",
+            "contributor": "TomWareC"
+        },
+        {
             "version": "XP",
             "build": "2013",
             "type": "x64/x86",
@@ -131,6 +171,36 @@
             "host": "AnonFiles",
             "url": "https://anonfiles.com/30l1mb38u2/en_windows_xp_professional_sp3_Nov_2013_Incl_SATA_Drivers_iso",
             "size": "599.1 MiB"
+        },
+        {
+            "version": "Neptune",
+            "build": "5111.1",
+            "type": "x64/x86",
+            "fast": false,
+            "host": "Go File",
+            "url": "https://gofile.io/d/YhXVX1",
+            "size": "378.5 MiB",
+            "contributor": "TomWareC"
+        },
+        {
+            "version": "Neptune",
+            "build": "5111.1",
+            "type": "x64/x86",
+            "fast": false,
+            "host": "Send CM",
+            "url": "https://send.cm/d/3WCI",
+            "size": "378.5 MiB",
+            "contributor": "TomWareC"
+        },
+        {
+            "version": "Neptune",
+            "build": "5111.1",
+            "type": "x64/x86",
+            "fast": false,
+            "host": "Mega.nz",
+            "url": "https://mega.nz/file/bhEkgZ4B#X486TU4V6m4UlxW1k15hSdRPWrQgHV9koB1Z5s-6BCE",
+            "size": "378.5 MiB",
+            "contributor": "TomWareC"
         },
         {
             "version": "95",
