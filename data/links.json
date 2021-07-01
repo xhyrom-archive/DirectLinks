@@ -96,12 +96,32 @@
         {
             "version": "10",
             "build": "20H2",
-            "type": "x64",
+            "type": "x64/x86",
             "fast": true,
             "host": "Mega.nz",
             "url": "https://mega.nz/file/SrZwjZaI#jNGvz4JxZqYwdmJzxt1cxyNd_vDAWvk3NXuNM8WdyiM",
             "size": "4.45 GiB",
             "contributor": "DaneeSkripter"
+        },
+        {
+            "version": "10",
+            "build": "18922",
+            "type": "x64/x86",
+            "fast": true,
+            "host": "GoFile",
+            "url": "https://gofile.io/d/RIH2MW",
+            "size": "4.2 GiB",
+            "contributor": "TomWareC"
+        },
+        {
+            "version": "10",
+            "build": "18922",
+            "type": "x64/x86",
+            "fast": true,
+            "host": "Send CM",
+            "url": "https://send.cm/d/3WFk",
+            "size": "4.2 GiB",
+            "contributor": "TomWareC"
         },
         {
             "version": "8",
