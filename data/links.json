@@ -6,7 +6,7 @@
             "build": "22000",
             "fast": true,
             "host": "Send CM",
-            "url": "https://cloud3.send.cm/d/dbytwwkm6gosj4l4xj2v7h5a3savh6xmxo5siitw4erj4caz6moyljmud3lns2l5fdio6ghe/22000.51.210617-2050.CO_RELEASE_SVC_PROD2_CLIENTPRO_OEMRET_X64FRE_EN-US_WIM.ISO",
+            "url": "https://send.cm/d/3UkB",
             "contributor": "TomWareC",
             "size": "4.4 GiB"
         },
@@ -16,7 +16,7 @@
             "build": "22000",
             "fast": true,
             "host": "Send CM",
-            "url": "https://cloud3.send.cm/d/dbysiwkm6gosj4l4xj2vlcnuy5zaxfey4zcfz5znnkk3caw2vr3kouafqk7dclapvqesbose/22000.51.210617-2050.CO_RELEASE_SVC_PROD2_CLIENTPRO_OEMRET_X64FRE_EN-US_ESD.ISO",
+            "url": "https://send.cm/d/3UkC",
             "contributor": "TomWareC",
             "size": "3.5 GiB"
         },
