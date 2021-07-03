@@ -185,7 +185,7 @@
         },
         {
             "version": "XP",
-            "build": "2013",
+            "build": "5.1.2600.5512",
             "type": "x64/x86",
             "fast": false,
             "host": "AnonFiles",
