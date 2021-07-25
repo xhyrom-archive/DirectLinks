@@ -253,6 +253,16 @@
             "size": "597.3 MiB"
         },
         {
+            "version": "2.03",
+            "build": "3.5-720k",
+            "type": "x16",
+            "fast": true,
+            "host": "Winworldpc",
+            "url": "https://winworldpc.com/download/0474c84d-d5c4-11eb-9de1-0200008a0da4/from/c3ae6ee2-8099-713d-3411-c3a6e280947e",
+            "contributor": "slovak-cat",
+            "size": "3.4 MiB"
+        }
+        {
             "version": "1",
             "build": "01",
             "type": "x16",
