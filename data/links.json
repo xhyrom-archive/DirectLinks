@@ -5,16 +5,6 @@
             "type": "x64",
             "build": "22000",
             "fast": true,
-            "host": "Mirror",
-            "url": "https://neverland-windows11iso.gq/22000.51.210617-2050.CO_RELEASE_SVC_PROD2_CLIENTPRO_OEMRET_X64FRE_EN-US.iso",
-            "contributor": "ItsNeverLand",
-            "size": "3.5 GiB"
-        },
-        {
-            "version": "11",
-            "type": "x64",
-            "build": "22000",
-            "fast": true,
             "host": "Send CM",
             "url": "https://send.cm/d/3UkB",
             "contributor": "TomWareC",
@@ -57,16 +47,6 @@
             "fast": true,
             "host": "Microsoft",
             "url": "https://blogs.windows.com/windows-insider/2021/06/28/announcing-the-first-insider-preview-for-windows-11/"
-        },
-        {
-            "version": "11",
-            "type": "x64",
-            "build": "21996",
-            "fast": true,
-            "host": "Mirror",
-            "url": "https://neverland-windows11iso.gq/21996.1.210529-1541.co_release_CLIENT_CONSUMER_x64FRE_en-us.iso",
-            "contributor": "ItsNeverLand",
-            "size": "4.5 GiB"
         },
         {
             "version": "11",
