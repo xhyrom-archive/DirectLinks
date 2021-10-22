@@ -13,7 +13,7 @@ googleAnalytics = ""  # add your tracking id
   logo = ""  # url or path to a logo to put in the header
   [params.footer]
     text = "By Hyro, Contributors"
-    url = "https://github.com/xHyroM/tools"
+    url = "https://github.com/xHyroM/DIrectLinks"
   [params.style]  # appearance options (can be omitted)
     fontFamily = "Inconsolata"
     pageWidth = "750px"

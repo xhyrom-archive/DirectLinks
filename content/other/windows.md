@@ -4,7 +4,7 @@ title = "Windows"
 
 ## Windows
 
-[Windows 11 First Insider Build](https://blogs.windows.com/windows-insider/2021/06/28/announcing-the-first-insider-preview-for-windows-11/)
+[Windows 11 Released](https://www.microsoft.com/en-us/software-download/windows11)
 
 <details>
     <summary>Windows 11 22000 | ISO Checksums</summary>
