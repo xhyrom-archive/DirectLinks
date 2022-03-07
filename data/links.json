@@ -208,7 +208,15 @@
             "url": "https://mega.nz/file/qChGTSjB#8UYbDYNvK8MqvBzoq_EySoiSF7J6odnKwyIlPjW8a-E",
             "contributor": "xHyroM",
             "size": "2.5 KiB"
-        }
+        },
+        {
+            "type": "Chrome 6.0.472.62 (For Windows XP)",
+            "fast": true,
+            "host": "Mega.nz",
+            "url": "https://mega.nz/file/yjgj2Ywb#JEEPmATMPzpjWjuPHX7dEvWglevIppykSbTkvRG2YVg",
+            "contributor": "DaneeSkripter",
+            "size": "19.5 MiB"
+        },
     ],
     "images": [
         {
